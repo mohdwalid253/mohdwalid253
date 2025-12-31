@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi, I'm Mohd Walid Ansari 👋
 
-<!--
-**mohdwalid253/mohdwalid253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mathematics Graduate | 📊 Aspiring Data Analyst & Data Scientist  
+💡 Strong interest in data analysis, statistics, and machine learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technical Skills
+- **Programming:** Python  
+- **Data Analysis:** SQL, Excel, Pandas, NumPy  
+- **Visualization:** Power BI, Matplotlib, Seaborn  
+- **Machine Learning:** Linear Regression, KNN Regression (scikit-learn)  
+- **Concepts:** EDA, Statistics, Data Cleaning  
+- **Tools:** GitHub, Jupyter Notebook
+
+---
+
+### 📂 Featured Projects
+- 🔹 **Exploratory Data Analysis (EDA)** – Data cleaning, visualization, and insights using Python  
+- 🔹 **Regression Model Comparison** – Linear vs KNN Regression evaluated using RMSE, MAE, and R²  
+- 🔹 **Power BI Dashboard** – Interactive dashboard for business performance analysis
+
+👉 Check my repositories to explore project code and notebooks.
+
+---
+
+### 🎯 What I'm Looking For
+- Entry-level **Data Analyst / Associate Data Analyst** roles  
+- Internships in **Data Analytics / Data Science**
+
+---
+
+### 📫 Connect with Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/mohdwalidansari
