@@ -9,7 +9,7 @@
 - **Programming:** Python  
 - **Data Analysis:** SQL, Excel, Pandas, NumPy  
 - **Visualization:** Power BI, Matplotlib, Seaborn  
-- **Machine Learning:** Linear Regression, KNN Regression (scikit-learn)  
+- **Machine Learning:** Linear Regression, KNN Regression, Decision Tree, SVM, Random Forest (scikit-learn)  
 - **Concepts:** EDA, Statistics, Data Cleaning  
 - **Tools:** GitHub, Jupyter Notebook
 
