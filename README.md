@@ -15,6 +15,17 @@
 
 ---
 
+### 📚 Learning & Academic Exposure
+*(Conceptual understanding / coursework level)*
+
+- Neural Networks  
+- Deep Learning fundamentals  
+- Natural Language Processing (NLP)  
+- Generative AI concepts  
+- Unsupervised Learning (Clustering basics)
+
+---
+
 ### 📂 Featured Projects
 - 🔹 **Exploratory Data Analysis (EDA)** – Data cleaning, visualization, and insights using Python  
 - 🔹 **Regression Model Comparison** – Linear vs KNN Regression evaluated using RMSE, MAE, and R²  
