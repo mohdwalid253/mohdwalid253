@@ -1,6 +1,6 @@
 ## Hi, I'm Mohd Walid Ansari 👋
 
-🎓 Mathematics Graduate | 📊 Aspiring Data Analyst & Data Scientist  
+🎓 Mathematics Graduate | 📊 Data Analyst & Data Scientist  
 💡 Strong interest in data analysis, statistics, and machine learning
 
 ---
