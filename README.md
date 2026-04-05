@@ -1,8 +1,8 @@
 # 📉 Your Data Is Talking… Most Businesses Just Don’t Listen
 
-Hi, I'm Mohd Walid Ansari 👋  
+### Hi, I'm Mohd Walid Ansari 👋  
 
-I turn messy data into clear, actionable business decisions.
+### I turn messy data into clear, actionable business decisions.
 
 ---
 
@@ -85,6 +85,6 @@ If you're looking for someone who can:
 ✔ Think in terms of business impact  
 ✔ Go beyond dashboards  
 
-📧 Email: walidmohd2532001@gmail.com  
+
 📧 Email: mohdwalid.data.analyst@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/mohdwalidansari
