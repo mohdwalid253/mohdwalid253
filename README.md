@@ -1,45 +1,90 @@
-## Hi, I'm Mohd Walid Ansari 👋
+# 📉 Your Data Is Talking… Most Businesses Just Don’t Listen
 
-🎓 Mathematics Graduate | 📊 Data Analyst & Data Scientist  
-💡 Strong interest in data analysis, statistics, and machine learning
+Hi, I'm Mohd Walid Ansari 👋  
 
----
-
-### 🔧 Technical Skills
-- **Programming:** Python  
-- **Data Analysis:** SQL, Excel, Pandas, NumPy  
-- **Visualization:** Power BI, Matplotlib, Seaborn  
-- **Machine Learning:** Linear Regression, KNN Regression, Decision Tree, SVM, Random Forest (scikit-learn)  
-- **Concepts:** EDA, Statistics, Data Cleaning  
-- **Tools:** GitHub, Jupyter Notebook
+I turn messy data into clear, actionable business decisions.
 
 ---
 
-### 📚 Learning & Academic Exposure
-*(Conceptual understanding / coursework level)*
+## 🤔 Here’s What I’ve Noticed
 
-- Neural Networks  
-- Deep Learning fundamentals  
-- Natural Language Processing (NLP)  
-- Generative AI concepts  
-- Unsupervised Learning (Clustering basics)
+Companies track:
+- Revenue 📈  
+- Orders 🛒  
+- Customers 👥  
 
----
+But still struggle to answer:
 
-### 📂 Featured Projects
-- 🔹 **Exploratory Data Analysis (EDA)** – Data cleaning, visualization, and insights using Python  
-- 🔹 **Regression Model Comparison** – Linear vs KNN Regression evaluated using RMSE, MAE, and R²  
-- 🔹 **Power BI Dashboard** – Interactive dashboard for business performance analysis
+- Why are customers not coming back?  
+- What’s actually driving revenue?  
+- Where are we losing money without noticing?  
 
-👉 Check my repositories to explore project code and notebooks.
+👉 That’s where I come in.
 
 ---
 
-### 🎯 What I'm Looking For
-- Entry-level **Data Analyst / Associate Data Analyst** roles  
-- Internships in **Data Analytics / Data Science**
+## 🔍 How I Solve Problems
+
+I don’t just “analyze data”
+
+I:
+- Break business problems into measurable questions  
+- Use SQL & Python to uncover patterns  
+- Validate insights using statistics  
+- Turn findings into dashboards decision-makers can use  
 
 ---
 
-### 📫 Connect with Me
-- 🔗 LinkedIn: https://www.linkedin.com/in/mohdwalidansari
+## 📊 A Problem I Recently Solved
+
+**“Why are customers not returning?”**
+
+Using 100K+ e-commerce records, I found:
+
+- ~96% customers were one-time buyers  
+- Delivery delays significantly reduced customer satisfaction  
+- Revenue growth was misleading (driven mostly by new users)  
+
+👉 This shifted the focus from *growth → retention strategy*
+
+---
+
+## 🧠 What Makes Me Different
+
+Most candidates say:
+> “I know Python, SQL, Power BI”
+
+I focus on:
+> “What problem are we solving and why does it matter?”
+
+---
+
+## ⚙️ Tools I Use
+
+- SQL (BigQuery)  
+- Python (Pandas, NumPy, Matplotlib)  
+- Power BI  
+- Statistics & Hypothesis Testing  
+
+---
+
+## 🚀 What I Build
+
+- Business-focused case studies  
+- End-to-end analytics workflows  
+- Clean, structured problem-solving approach  
+- Insights that drive decisions, not just dashboards  
+
+---
+
+## 🤝 Let’s Connect
+
+If you're looking for someone who can:
+
+✔ Turn data into decisions  
+✔ Think in terms of business impact  
+✔ Go beyond dashboards  
+
+📧 Email: walidmohd2532001@gmail.com  
+📧 Email: mohdwalid.data.analyst@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/mohdwalidansari
